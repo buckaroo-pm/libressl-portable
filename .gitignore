@@ -175,3 +175,9 @@ openbsd/
 *.tar.gz
 man/Makefile.am
 man/mandoc.db
+
+# Buck
+.buckd
+buck-out
+.buckconfig.local
+.buckconfig.d
